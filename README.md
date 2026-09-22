@@ -27,6 +27,8 @@ The Figures and their corresponding Notebooks are as follows:
 
 Supplement: 
 
+|     Figures      	|     Notebook                                                 	|
+|------------------	|--------------------------------------------------------------	|
 |     FigureS1     	|                                                             	|
 |     FigureS2     	|                                                             	|
 |     FigureS3     	|                                                             	|
