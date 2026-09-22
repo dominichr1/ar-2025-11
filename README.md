@@ -41,9 +41,9 @@ Supplement:
 |     FigureS10    	|                                              	                |
 |     FigureS11    	|                                                 	            |
 |     FigureS12    	|                                                       	      |
-|     FigureS13    	|                 	                                            |
-|     FigureS14    	|                                	                              |
-|     FigureS15    	|                                	                              |
+|     FigureS13    	|   apply_nanoranking.ipynb                                     |
+|     FigureS14    	|   apply_nanoranking.ipynb      	                              |
+|     FigureS15    	|   apply_nanoranking.ipynb      	                              |
 |     FigureS16    	|              	                                                | 
 |     FigureS17    	|                    	                                          |
 |     FigureS18    	|                                                             	|
