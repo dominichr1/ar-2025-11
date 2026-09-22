@@ -14,9 +14,9 @@ The Figures and their corresponding Notebooks are as follows:
 |     Figure5      	|     figure5                                                  	|
 |     Figure6      	|                                                             	|
 |     Figure7      	|                                                             	|
-|     Figure8      	|                                                             	|
-|     Figure9      	|                                                             	|
-|     Figure10     	|                                                             	|
+|     Figure8      	|     sun_cs_npf_model.ipynb                                   	|
+|     Figure9      	|     sun_cs_npf_model.ipynb                                   	|
+|     Figure10     	|     sun_cs_npf_model.ipynb                                   	|
 |     Figure11     	|     figure2                                                  	|
 |     Figure12     	|     figure2                                                 	|
 |     Figure13     	|                                                             	|
@@ -53,11 +53,11 @@ Supplement:
 |     FigureS22    	|                                                             	|
 |     FigureS23    	|                                                             	|
 |     FigureS24    	|                                                             	|
-|     FigureS25    	|                                                             	|
+|     FigureS25    	|     sun_cs_npf_model.ipynb                                   	|
 |     FigureS26    	|     figure2                                                  	|
 |     FigureS27    	|     figure2                                  	                |
-|     FigureS28    	|                                                 	            |
-|     FigureS29    	|                                                       	      |
+|     FigureS28    	|     sun_cs_npf_model.ipynb                       	            |
+|     FigureS29    	|     sun_cs_npf_model.ipynb                             	      |
 |     FigureS30    	|                 	                                            |
 |     FigureS31    	|                                	                              |
 |     FigureS32    	|                                	                              |
