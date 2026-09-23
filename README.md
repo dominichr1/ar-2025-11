@@ -34,7 +34,7 @@ Supplement:
 |     FigureS3     	|                                                             	|
 |     FigureS4     	|                                                             	|
 |     FigureS5     	|                                                             	|
-|     FigureS6     	|                                                             	|
+|     FigureS6     	|   data_availability_FigS6.ipynb                              	|
 |     FigureS7     	|                                                             	|
 |     FigureS8     	|                                                             	|
 |     FigureS9     	|                                                             	|
