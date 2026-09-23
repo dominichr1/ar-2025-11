@@ -6,22 +6,22 @@ The Figures and their corresponding Notebooks are as follows:
 
 |     Figures      	|     Notebook                                                 	|
 |------------------	|--------------------------------------------------------------	|
-|     Figure1      	|     figure1                                                 	|
-|     Figure2      	|     figure2                                                  	|
-|     Figure3      	|     figure3                                                  	|
+|     Figure1      	|     figure1.ipynb                                           	|
+|     Figure2      	|     figure2.ipynb                                            	|
+|     Figure3      	|     figure3.ipynb                                            	|
 |     Table1      	|                                                             	|
 |     Figure4      	|                                                             	|
-|     Figure5      	|     figure5                                                  	|
+|     Figure5      	|     figure5.ipynb                                            	|
 |     Figure6      	|                                                             	|
 |     Figure7      	|                                                             	|
 |     Figure8      	|     sun_cs_npf_model.ipynb                                   	|
 |     Figure9      	|     sun_cs_npf_model.ipynb                                   	|
 |     Figure10     	|     sun_cs_npf_model.ipynb                                   	|
-|     Figure11     	|     figure2                                                  	|
-|     Figure12     	|     figure2                                                 	|
+|     Figure11     	|     figure2.ipynb                                            	|
+|     Figure12     	|     figure2.ipynb                                            	|
 |     Figure13     	|                                                             	|
 |     Figure14     	|                                                             	|
-|     Figure15     	|                                                             	|
+|     Figure15     	|     increasing_Dp_Fig15.ipynb                                	|
 |     Figure16     	|                                                             	|
 |     Figure17     	|                                                             	|
 
@@ -54,8 +54,8 @@ Supplement:
 |     FigureS23    	|                                                             	|
 |     FigureS24    	|                                                             	|
 |     FigureS25    	|     sun_cs_npf_model.ipynb                                   	|
-|     FigureS26    	|     figure2                                                  	|
-|     FigureS27    	|     figure2                                  	                |
+|     FigureS26    	|     figure2.ipynb                                           	|
+|     FigureS27    	|     figure2.ipynb                            	                |
 |     FigureS28    	|     sun_cs_npf_model.ipynb                       	            |
 |     FigureS29    	|     sun_cs_npf_model.ipynb                             	      |
 |     FigureS30    	|                 	                                            |
