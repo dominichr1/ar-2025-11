@@ -49,15 +49,15 @@ Supplement:
 |     FigureS18    	|                                                             	|
 |     FigureS19    	|                                                             	|
 |     FigureS20    	|                                                             	|
-|     FigureS21    	|   Ocean_basins_FigS21                                       	|
+|     FigureS21    	|   Ocean_basins_FigS21.ipynb                                  	|
 |     FigureS22    	|                                                             	|
 |     FigureS23    	|                                                             	|
 |     FigureS24    	|                                                             	|
-|     FigureS25    	|     sun_cs_npf_model.ipynb                                   	|
-|     FigureS26    	|     figure2.ipynb                                           	|
-|     FigureS27    	|     figure2.ipynb                            	                |
-|     FigureS28    	|     sun_cs_npf_model.ipynb                       	            |
-|     FigureS29    	|     sun_cs_npf_model.ipynb                             	      |
+|     FigureS25    	|   sun_cs_npf_model.ipynb                                     	|
+|     FigureS26    	|   figure2.ipynb                                             	|
+|     FigureS27    	|   figure2.ipynb                             	                |
+|     FigureS28    	|   sun_cs_npf_model.ipynb                        	            |
+|     FigureS29    	|   sun_cs_npf_model.ipynb                              	      |
 |     FigureS30    	|                 	                                            |
 |     FigureS31    	|                                	                              |
 |     FigureS32    	|                                	                              |
