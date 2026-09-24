@@ -23,7 +23,6 @@ The Figures and their corresponding Notebooks are as follows:
 |     Figure14     	|                                                             	|
 |     Figure15     	|     increasing_Dp_Fig15.ipynb                                	|
 |     Figure16     	|                                                             	|
-|     Figure17     	|                                                             	|
 
 Supplement: 
 
