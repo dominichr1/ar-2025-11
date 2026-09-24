@@ -13,7 +13,7 @@ The Figures and their corresponding Notebooks are as follows:
 |     Figure4      	|                                                             	|
 |     Figure5      	|     figure5.ipynb                                            	|
 |     Figure6      	|                                                             	|
-|     Figure7      	|                                                             	|
+|     Figure7      	|     nucleation_mapping_Fig7                                  	|
 |     Figure8      	|     sun_cs_npf_model.ipynb                                   	|
 |     Figure9      	|     sun_cs_npf_model.ipynb                                   	|
 |     Figure10     	|     sun_cs_npf_model.ipynb                                   	|
