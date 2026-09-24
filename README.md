@@ -50,7 +50,7 @@ Supplement:
 |     FigureS19    	|                                                             	|
 |     FigureS20    	|                                                             	|
 |     FigureS21    	|   Ocean_basins_FigS21.ipynb                                  	|
-|     FigureS22    	|                                                             	|
+|     FigureS22    	|   annual_airmass_freq_figureS22                             	|
 |     FigureS23    	|                                                             	|
 |     FigureS24    	|                                                             	|
 |     FigureS25    	|   sun_cs_npf_model.ipynb                                     	|
