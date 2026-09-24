@@ -49,7 +49,7 @@ Supplement:
 |     FigureS18    	|                                                             	|
 |     FigureS19    	|                                                             	|
 |     FigureS20    	|                                                             	|
-|     FigureS21    	|                                                             	|
+|     FigureS21    	|   Ocean_basins_FigS21                                       	|
 |     FigureS22    	|                                                             	|
 |     FigureS23    	|                                                             	|
 |     FigureS24    	|                                                             	|
