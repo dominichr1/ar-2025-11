@@ -36,9 +36,9 @@ Supplement:
 |     FigureS6     	|   data_availability_FigS6.ipynb                              	|
 |     FigureS7     	|                                                             	|
 |     FigureS8     	|                                                             	|
-|     FigureS9     	|                                                             	|
-|     FigureS10    	|                                              	                |
-|     FigureS11    	|                                                 	            |
+|     FigureS9     	|   DMPS_NAIS_NanoSMPS_FigS11.ipynb                            	|
+|     FigureS10    	|   DMPS_NAIS_NanoSMPS_FigS11.ipynb            	                |
+|     FigureS11    	|   DMPS_NAIS_NanoSMPS_FigS11.ipynb                	            |
 |     FigureS12    	|                                                       	      |
 |     FigureS13    	|   apply_nanoranking.ipynb                                     |
 |     FigureS14    	|   apply_nanoranking.ipynb      	                              |
