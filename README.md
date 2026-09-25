@@ -28,7 +28,7 @@ Supplement:
 
 |     Figures      	|     Notebook                                                 	|
 |------------------	|--------------------------------------------------------------	|
-|     FigureS1     	|                                                             	|
+|     FigureS1     	|   loss_calculation_peneration.ipynb                         	|
 |     FigureS2     	|                                                             	|
 |     FigureS3     	|                                                             	|
 |     FigureS4     	|                                                             	|
