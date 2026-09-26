@@ -12,7 +12,7 @@ The Figures and their corresponding Notebooks are as follows:
 |     Table1      	|                                                             	|
 |     Figure4      	|                                                             	|
 |     Figure5      	|     figure5.ipynb                                            	|
-|     Figure6      	|                                                             	|
+|     Figure6      	|     small_ion_ratio_fig6_S24                                 	|
 |     Figure7      	|     nucleation_mapping_Fig7                                  	|
 |     Figure8      	|     sun_cs_npf_model.ipynb                                   	|
 |     Figure9      	|     sun_cs_npf_model.ipynb                                   	|
@@ -51,7 +51,7 @@ Supplement:
 |     FigureS21    	|   Ocean_basins_FigS21.ipynb                                  	|
 |     FigureS22    	|   annual_airmass_freq_figureS22                             	|
 |     FigureS23    	|                                                             	|
-|     FigureS24    	|                                                             	|
+|     FigureS24    	|   small_ion_ratio_fig6_S24                                   	|
 |     FigureS25    	|   sun_cs_npf_model.ipynb                                     	|
 |     FigureS26    	|   figure2.ipynb                                             	|
 |     FigureS27    	|   figure2.ipynb                             	                |
