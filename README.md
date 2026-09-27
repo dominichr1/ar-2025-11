@@ -29,8 +29,8 @@ Supplement:
 |     Figures      	|     Notebook                                                 	|
 |------------------	|--------------------------------------------------------------	|
 |     FigureS1     	|   loss_calculation_peneration.ipynb                         	|
-|     FigureS2     	|                                                             	|
-|     FigureS3     	|                                                             	|
+|     FigureS2     	|   Incloud_events_NAIS_DMPS_Fig_S2_S3.ipynb                   	|
+|     FigureS3     	|   Incloud_events_NAIS_DMPS_Fig_S2_S3.ipynb                  	|
 |     FigureS4     	|                                                             	|
 |     FigureS5     	|                                                             	|
 |     FigureS6     	|   data_availability_FigS6.ipynb                              	|
