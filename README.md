@@ -20,7 +20,7 @@ The Figures and their corresponding Notebooks are as follows:
 |     Figure11     	|     figure2.ipynb                                            	|
 |     Figure12     	|     figure2.ipynb                                            	|
 |     Figure13     	|     CS_nuc_mode_Fig13.ipynb                                  	|
-|     Figure14     	|                                                             	|
+|     Figure14     	|     airmass_rainfall_RH_events_fig14.ipynb                   	|
 |     Figure15     	|     increasing_Dp_Fig15.ipynb                                	|
 |     Figure16     	|                                                             	|
 
