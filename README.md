@@ -19,7 +19,7 @@ The Figures and their corresponding Notebooks are as follows:
 |     Figure10     	|     sun_cs_npf_model.ipynb                                   	|
 |     Figure11     	|     figure2.ipynb                                            	|
 |     Figure12     	|     figure2.ipynb                                            	|
-|     Figure13     	|                                                             	|
+|     Figure13     	|     CS_nuc_mode_Fig13.ipynb                                  	|
 |     Figure14     	|                                                             	|
 |     Figure15     	|     increasing_Dp_Fig15.ipynb                                	|
 |     Figure16     	|                                                             	|
