@@ -46,7 +46,7 @@ Supplement:
 |     FigureS16    	|              	                                                | 
 |     FigureS17    	|                    	                                          |
 |     FigureS18    	|                                                             	|
-|     FigureS19    	|                                                             	|
+|     FigureS19    	|   Polar_night_events_figS19.ipynb                            	|
 |     FigureS20    	|                                                             	|
 |     FigureS21    	|   Ocean_basins_FigS21.ipynb                                  	|
 |     FigureS22    	|   annual_airmass_freq_figureS22                             	|
